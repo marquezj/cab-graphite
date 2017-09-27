@@ -30,7 +30,7 @@ Graphite TSL model from Centro Atomico Bariloche
  ATOMPOSITIONS: 0. 0. 0.25; 0. 0. 0.75;                              
                 0.333333333333 0.666666666667 0.25;                   
                 0.666666666667 0.333333333333 0.75                   
- sigma_b = 6.6484 b                                                  
+ b_coh = 6.6484 fm                                                  
                                                                      
  References:                                                         
  [1] S. Rols, et al. Phys. Rev. Lett. 85, 5222 (2000).               
